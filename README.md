@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository.
 
 My name is Emunael but everyone calls me Dukes. I am currenlty developing my data science skills through [Dataquest](dataquest.io), who I highly recommend for anyone interested in learning data science. I will be frequently posting my projects on here, and as my skill set grows I hope to build progressively more robust projects.
 
